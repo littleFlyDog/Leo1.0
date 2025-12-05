@@ -22,9 +22,9 @@ python inferency.py
 ```
 ## Fine-tuning outcome
 1. train loss
-![trainloss](assets\trainloss.png)
+![trainloss](assets/trainloss.png)
 2. eval loss
-![evalloss](assets\evalloss.png)
+![evalloss](assets/evalloss.png)
 
 ## examples
 ```
